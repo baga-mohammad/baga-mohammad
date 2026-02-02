@@ -1,4 +1,4 @@
-# about me:
+# profile:
 what's good? my name is raihan — a computer science student focused on front-end development. actively learning and building towards a career in web development.
 
 # tech stack:
